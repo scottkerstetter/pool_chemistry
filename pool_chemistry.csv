@@ -1,0 +1,12 @@
+date,hrd_total,cl_total,br_total,cl_free,ph,alk_total,cyanuric,product_type,product_brand,product_name,refill,pump_pressure
+6/25/2020 16:59,250,5,10,3,7.8,80,30,strip_test,HACH,AquaChek 7,0,20
+6/26/2020 15:56,250,5,10,3,6.8,40,20,strip_test,HACH,AquaChek 7,0,20
+6/27/2020 16:21,250,5,10,3,6.8,80,10,strip_test,HACH,AquaChek 7,1,20
+6/29/2020 19:42,250,5,10,3,6.8,80,10,strip_test,HACH,AquaChek 7,0,NULL
+7/1/2020 18:00,250,10,20,5,7.2,40,30,strip_test,HACH,AquaChek 7,0,20
+7/3/2020 18:08,250,5,10,3,7.2,40,30,strip_test,HACH,AquaChek 7,1,19.5
+7/6/2020 20:09,250,3,5,2,6.8,40,20,strip_test,HACH,AquaChek 7,0,NULL
+7/11/2020 11:33,250,5,10,3,7.2,80,20,strip_test,HACH,AquaChek 7,1,19
+7/13/2020 18:56,250,1,2,0.5,6.8,40,20,strip_test,HACH,AquaChek 7,0,19
+7/15/2020 18:15,250,3,5,3,7.2,80,20,strip_test,HACH,AquaChek 7,0,19
+7/20/2020 10:56,250,1,2,1,7.2,120,30,strip_test,HACH,AquaChek 7,1,19
